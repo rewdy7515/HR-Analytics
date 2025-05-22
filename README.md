@@ -4,7 +4,7 @@
 
 This project uses machine learning and data analysis to predict employee resignations based on internal HR data. The main objective is to help Salifort Motors reduce turnover and retain top talent by identifying key risk factors.
 
-📄 [Read the full report (PDF)](report/Hr_Analytics_Report.pdf)
+📄 [Read the full report (PDF)](report/Hr_Analytics_Job_Prediction.pdf)
 
 ---
 
